@@ -1,0 +1,10 @@
+h1 {
+  font-size: 35px;
+}
+
+button {
+  background: blue;
+  border: none;
+  padding: 15px;
+  border-radius: 10px;
+}
